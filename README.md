@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sullivander
+- 👀 I’m interested in backend tech.
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any backend projects.
+- 📫 How to reach me: DMs.
